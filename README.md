@@ -1,1 +1,3 @@
-# NewGit
+# Hi
+# Hello
+# GitPractice
